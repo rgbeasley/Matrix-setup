@@ -36,7 +36,7 @@ echo -e "${MAGENTA}╔═══════════════════�
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}          Docker & Synapse Admin Installation Script         ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
-echo -e "${MAGENTA}║${NC}                Created by Garrett Beasley                 ${MAGENTA}║${NC}"
+echo -e "${MAGENTA}║${NC}                Created by Garrett Beasley                   ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                        October 2025                         ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}╚═════════════════════════════════════════════════════════════╝${NC}"

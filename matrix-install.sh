@@ -35,7 +35,7 @@ echo -e "${MAGENTA}╔═══════════════════�
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}          Matrix Synapse Server Installation Script${NC}          ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
-echo -e "${MAGENTA}║${NC}              Created by Garrett Beasley${NC}                  ${MAGENTA}║${NC}"
+echo -e "${MAGENTA}║${NC}               Created by Garrett Beasley${NC}                    ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                        October 2025${NC}                         ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}║${NC}                                                             ${MAGENTA}║${NC}"
 echo -e "${MAGENTA}╚═════════════════════════════════════════════════════════════╝${NC}"
